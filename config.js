@@ -3,7 +3,7 @@ const config = {
   local: true, // Change this to false to disable local assets.
   challenge: true,
   users: {
-    // username: 'password', you can add multiple users
+    username: 'password',
   },
 }
 
